@@ -21,7 +21,7 @@
   },
   "CyberFoil": {
     "asset_info": {
-      "version": "1.3.8"
+      "version": "1.4.1"
     },
     "asset_patterns": [
       {
@@ -221,7 +221,7 @@
   },
   "Warmboot-Extractor": {
     "asset_info": {
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     "asset_patterns": [
       {
@@ -281,7 +281,7 @@
   },
   "dbi_ru": {
     "asset_info": {
-      "version": "DBI.863.ru.zip"
+      "version": "DBI.873.ru.zip"
     },
     "asset_patterns": [
       {
@@ -720,7 +720,7 @@
   },
   "ultrahand_overlay": {
     "asset_info": {
-      "version": "v2.2.7"
+      "version": "v2.2.9"
     },
     "asset_patterns": [
       {
